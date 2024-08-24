@@ -8,7 +8,7 @@ public class GameLogica {
     public static boolean isRunning;
 
     //encontrom aleátorios
-    public static String[] encontros = {"Batalha", "Batalha", "Batalha", "Batalha", "Batalha", "Batalha", "Graca", "Graca", "Graca", "Graca", "Graca", "Batalha"};
+    public static String[] encontros = {"Loja", "Batalha", "Batalha", "Batalha", "Batalha", "Batalha", "Graca", "Graca", "Graca", "Graca", "Graca", "Batalha"};
 
     //Nome dos inimigos
     public static String[] inimigo = {"Gigante de Fogo","Cavaleiro da Morte","Soldado do Radahn","Soldado do Godryck","Black Knight", "Morcego Gigante", "Soldado Exilado", "Guerreiro Golem", "Cavaleiros de Leyendel", "CRUCIBLE KNIGHT", "Assassino das Facas Negras", "Ancient Dragon"};
